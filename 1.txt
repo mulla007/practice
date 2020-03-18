@@ -1,2 +1,5 @@
 this is my first file
 pumpkin
+hello red 
+black 
+white
